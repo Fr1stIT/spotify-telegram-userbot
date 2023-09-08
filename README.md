@@ -26,7 +26,9 @@ ___
 ## Установка нужных библиотек
 
 1. Установка Spotipy для работы с Spotify API:
-    `pip install spotipy`
+    ```python
+    pip install spotipy
+   ```
 1. Установка Pyrogram для работы с Telegram API:
     `pip install pyrogram`
 1. Установка библиотеки requests для HTTP-запросов:
