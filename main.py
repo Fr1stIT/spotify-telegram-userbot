@@ -59,7 +59,8 @@ def main():
                     last_song = ''
 
 
-                time.sleep(10)
+                time.sleep(16)
+            #Коментарий
 
 
 
